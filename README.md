@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Ecommerce Website
-
+🔭 I’m currently working on Ecommerce Website                                                         ![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/96619338-69c1-449b-af25-5ff1c3549b09)
+ 
 🌱 I’m currently learning NEXT JS
 
 💬 Ask me about MERN
 
 📫 How to reach me sahilgupta25503@gmail.com 
 
-![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/96619338-69c1-449b-af25-5ff1c3549b09)
+
 
