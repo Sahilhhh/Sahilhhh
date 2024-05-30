@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there  I am sahil Gupta 👋
+A passionate and consistent Full Stack MERN Web Developer.
 <!--
 **Sahilhhh/Sahilhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/7a194ff6-84db-462f-9ca5-30c45b5af22d)
 
-Connect with me:
-![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/d49dc226-5834-48dd-8496-a52056643411)
+Connect with me: (https://www.linkedin.com/in/sahil-gupta-a46aa1203/)
+![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/38293c0e-ce51-42f0-8dec-a08878bf5423)
 
 Languages and Tools:
-![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/2c384b94-f3a5-41eb-bb1b-4ba2b5f03260)
+![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/9c51df0e-a478-4823-b920-4e32c505e8a3)
+
 
 ![image](https://github.com/Sahilhhh/Sahilhhh/assets/109064806/6792456b-3fad-416a-8efc-5d6bc1457616)
 
